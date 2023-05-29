@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vlads22
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning to write better code
 
 <!---
 vlads22/vlads22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
